@@ -1,0 +1,18 @@
+
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+sentence-transformers
+qdrant-client
+langchain
+langchain-openai
+sqlalchemy
+redis
+# smtplib 
+email-validator
+python-dotenv
+pydantic
+langchain-community
+langchain-google-genai
+langchain_experimental
