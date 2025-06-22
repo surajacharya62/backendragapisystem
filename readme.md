@@ -5,6 +5,6 @@ In this project, I used Pinecone vector db. Generally, it has two api: one is fo
 To run this program, please follow the steps given below:
 step 1: Intalls the required libraries mentioned in the requirements.txt file
 step 2: Run the command:uviconr main:app --reload 
-step 3: After running in the browser: provide the url 127.0.0.1/docs. There you will three apis and provide the details accordingly.
+step 3: After running in the browser: provide the url 127.0.0.1/docs. There you will find three apis and provide the details accordingly.
 
 Thank you
