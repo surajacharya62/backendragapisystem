@@ -1,3 +1,5 @@
+Note: If this file is not showing the contents in the order than use code view mode.
+
 I applied the various chunking methods and embedding models of different providers such openai, google and huggingface. Given below are some findings:
 
 chunking-method || embedding-model || embedding-provider || embedding-latency || retrieval-latency
