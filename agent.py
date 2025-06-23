@@ -42,9 +42,9 @@ class Agent():
 
         tools = [
             Tool(
-                name="document_search",
+                name="retriever_document",
                 description="Search through uploaded documents for relevant information",
-                func=self.search_document() 
+                func=self.retriever_latency
             )          
         ]
 
